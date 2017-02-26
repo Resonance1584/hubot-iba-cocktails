@@ -1,0 +1,17 @@
+{
+  "name": "hubot-iba-cocktails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hubot-iba-cocktails.js",
+  "scripts": {
+    "test": "jshint hubot-iba-cocktails.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leven": "2.1.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
